@@ -23,8 +23,6 @@ public class Program {
                 println();
                 print("Source: ");
                 ChessPosition source = UI.readChessPosition(sc);
-
-                println();
                 print("Target: ");
                 ChessPosition target = UI.readChessPosition(sc);
 
