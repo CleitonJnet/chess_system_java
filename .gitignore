@@ -1,0 +1,26 @@
+### IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.iws
+
+# Shelf local do IDE
+shelf/
+
+# Workspace local do usuário
+workspace.xml
+
+### Maven
+target/
+
+### Gradle
+.gradle/
+build/
+
+### Logs
+logs/
+*.log
+
+### Sistema operacional
+.DS_Store
+Thumbs.db
